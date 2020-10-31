@@ -1,4 +1,4 @@
-#rainmeter_stats
+# rainmeter_stats
 
 Basic rainmeter config to display network, sysinfo, and weather. Color adjusted for wallpaper.
 
